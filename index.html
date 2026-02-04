@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Título y descripción -->
+  <title>Dr. Hugo Malcampo de Dios – Psicólogo en Mazatlán y online</title>
+  <meta name="description"
+    content="Consulta psicológica presencial en Mazatlán y online. Dr. Hugo Malcampo de Dios, especialista en psicoterapia existencial, humanista y de liberación, con más de 30 años de experiencia." />
+  <meta name="robots" content="index, follow" />
+  <meta name="google-site-verification" content="googleb6bdc52a79a9968f.html" />
+  <link rel="canonical" href="https://hugomalcampodedios.com/">
+
+   <!-- Iconos y PWA -->
+   <!-- 1) ICO “universal” primero -->
+  <link rel="icon" href="/favicon.ico">
+
+  <!-- 2) PNGs (min 48×48 recomendado por Google) -->
+  <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png">
+
+  <!-- 3) Apple touch -->
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+  <!-- 4) SVG opcional (al final) -->
+  <link rel="icon" href="/logo.svg" type="image/svg+xml" sizes="any">
+
+  <!-- Manifest -->
+  <link rel="manifest" href="/site.webmanifest" />
+
+  <!-- Preload de fuentes críticas -->
+  <link rel="preload" href="/fonts/Inter.woff2" as="font" type="font/woff2" crossorigin />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Dr. Hugo Malcampo de Dios - Psicólogo y Psicoterapeuta" />
+  <meta property="og:description"
+    content="Especialista en psicoterapia existencial, humanista y de liberación. Conferencista internacional y creador del método CAMPUS de Autoconocimiento." />
+  <meta property="og:url" content="https://hugomalcampodedios.com/">
+  <meta property="og:locale" content="es_MX" />
+  <meta property="og:site_name" content="Dr. Hugo Malcampo de Dios" />
+  <meta property="og:image" content="https://hugomalcampodedios.com/og-image.jpg">
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@HugoMalcampo" />
+  <meta name="twitter:title" content="Dr. Hugo Malcampo de Dios - Psicólogo y Psicoterapeuta" />
+  <meta name="twitter:description"
+    content="Atención psicológica presencial en Mazatlán y online. Más de 30 años de experiencia en psicoterapia existencial, humanista y de liberación." />
+  <meta name="twitter:image" content="https://hugomalcampodedios.com/og-image.jpg">
+  <!-- Inline critical CSS del header y del fallback SEO -->
+  <style>
+    :root {
+      color-scheme: light;
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background-color: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid #dbeafe;
+      box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+    }
+
+    .animate-pulse {
+      animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+    }
+
+    @keyframes pulse {
+
+      0%,
+      100% {
+        opacity: 1;
+      }
+
+      50% {
+        opacity: 0.5;
+      }
+    }
+
+    /* Fallback visible si JS no ha cargado todavía */
+    #seo-fallback {
+      display: block;
+    }
+
+    .js-enabled #seo-fallback {
+      display: none;
+    }
+
+    .prose {
+      max-width: 70ch;
+      margin: 0 auto;
+      padding: 1.5rem;
+    }
+
+    .prose h1 {
+      font-size: clamp(1.75rem, 2.5vw, 2.25rem);
+      line-height: 1.2;
+      margin: 0.5rem 0 0.75rem;
+    }
+
+    .prose p {
+      margin: 0.5rem 0;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 0.25rem 0.5rem;
+      border-radius: 999px;
+      background: #e0e7ff;
+      color: #3730a3;
+      font-weight: 600;
+      font-size: 0.875rem;
+    }
+  </style>
+
+  <!-- Preload + carga diferida del CSS principal -->
+  <link rel="preload" href="/src/index.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+  <noscript>
+    <link rel="stylesheet" href="/src/index.css" />
+  </noscript>
+
+  <!-- Datos estructurados: Person + ProfessionalService -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": ["Person", "ProfessionalService"],
+      "name": "Dr. Hugo Malcampo de Dios",
+      "alternateName": ["Hugo Malcampo", "Hugo Mal Campo"],
+      "jobTitle": "Psicólogo, Psicoterapeuta y Académico",
+      "areaServed": "Mazatlán, México",
+      "url": "https://hugomalcampodedios.com/",
+      "image": "https://hugomalcampodedios.com/og-image.jpg",
+      "sameAs": [
+        "https://www.facebook.com/hugo.malcampodedios",
+        "https://www.instagram.com/hugo.malcampodedios",
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mazatlán",
+        "addressRegion": "Sinaloa",
+        "addressCountry": "MX"
+      },
+      "telephone": "+52 6xx xxx xxxx",
+      "description": "Consulta psicológica presencial en Mazatlán y online. Especialista en psicoterapia existencial, humanista y de liberación.",
+      "priceRange": "$$",
+      "openingHours": "Mo-Fr 10:00-19:00"
+    }
+    </script>
+</head>
+
+<body class="antialiased bg-gradient-to-br from-slate-50 to-blue-50 text-slate-800">
+  <a href="#root"
+    class="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 bg-blue-600 text-white px-4 py-2 rounded-md">Saltar
+    al contenido</a>
+
+  <!-- Fallback SEO (contenido mínimo estático para bots/usuarios sin JS) -->
+  <main id="seo-fallback" class="prose">
+    <span class="badge">Psicología en Mazatlán y online</span>
+    <h1>Dr. Hugo Malcampo de Dios – Psicólogo y Psicoterapeuta</h1>
+    <p>
+      Consulta psicológica presencial en Mazatlán y atención online. Especialista en psicoterapia existencial, humanista
+      y de liberación, con más de 30 años de experiencia.
+    </p>
+    <p>
+      También conocido como <strong>Hugo Malcampo</strong> (a veces escrito <strong>Hugo Mal Campo</strong>). Agenda tu
+      sesión individual, de pareja o académica.
+    </p>
+    <p>
+      Teléfono: <a href="tel:+526XXXXXXXXX">+52 6xx xxx xxxx</a> · Correo: <a
+        href="mailto:contacto@hugomalcampo.com">contacto@hugomalcampo.com</a>
+    </p>
+  </main>
+
+  <div id="root"></div>
+
+  <noscript>
+    <div
+      style="text-align:center;padding:2rem;background:#fef2f2;color:#991b1b;border:1px solid #fecaca;margin:1rem;border-radius:0.5rem;">
+      Por favor, habilita JavaScript para acceder a los servicios de psicología online y reservar tu consulta.
+    </div>
+  </noscript>
+
+  <!-- Bandera para ocultar el fallback cuando JS esté activo -->
+  <script>
+    (function () {
+      try { document.documentElement.classList.add('js-enabled'); } catch (e) { }
+    })();
+  </script>
+
+  <!-- Tu bundle de Vite/React -->
+  <script type="module" src="/src/main.tsx"></script>
+</body>
+
+</html>
