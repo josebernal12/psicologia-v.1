@@ -68,7 +68,7 @@ export default function AboutSection() {
                   <p>
                     Además, estuvo en Quintana Roo, en Tulum y Cobá. Visitó Chichén Itzá y recorrió el sur-sureste, en los estados de Quintana Roo,
                     Yucatán y Campeche, visitando todas las zonas y territorios que contienen una historia profunda de nuestra cultura milenaria en este país.
-                    También ha visitado Alemania, Roma, Venecia y Suiza. Estuvo en Perú, específicamente en la zona de Machu Picchu, en la Montaña de Siete
+                    También ha visitado Alemania, Roma, Venecia y Suiza. Estuvo en Perú, específicamente en la zona de MachuPicchu, en la Montaña de Siete
                     Colores y logró subir a la montaña Humantay. Estuvo en muchos lugares de la India milenaria, con el único propósito de conocer la
                     psicología profunda que utilizaron aquellos que lograron alcanzar una activación en sus niveles de conciencia.
                   </p>
