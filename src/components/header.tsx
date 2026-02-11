@@ -187,7 +187,7 @@ href={`#${link.href}`}
               title="WhatsApp"
             >
               <PhoneIcon className="w-4 h-4 text-green-600" />
-              <span className="font-medium">+52 1 669 126 2149</span>
+              <span className="font-medium"> 669 126 2149</span>
             </a>
           </div>
         </div>
@@ -234,7 +234,7 @@ href={`#${link.href}`}
               title="WhatsApp"
             >
               <PhoneIcon className="w-4 h-4 text-green-600" />
-              <span className="font-medium">+52 1 669 126 2149</span>
+              <span className="font-medium"> 669 126 2149</span>
             </a>
           </div>
         </nav>

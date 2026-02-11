@@ -37,7 +37,7 @@ export default function ContactSection() {
                     <h4 className="font-medium text-slate-800">WhatsApp (celular)</h4>
                     <p className="text-slate-600">
                       <a href="tel:+526691262149" className="text-blue-600 hover:underline">
-                        +52 1 669 126 2149
+                          669 126 2149
                       </a>{" "}
                       ·{" "}
                       <a

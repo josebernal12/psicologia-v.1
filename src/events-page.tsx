@@ -38,7 +38,7 @@ const CAMPUS = {
     },
     telefonos: {
       consultorio: { raw: "6699814015", formato: "669 981 4015", whatsapp_link: "https://wa.me/526699814015" },
-      particular: { raw: "6691262149", formato: "+52 1 669 126 2149", whatsapp_link: "https://wa.me/526691262149" },
+      particular: { raw: "6691262149", formato: " 669 126 2149", whatsapp_link: "https://wa.me/526691262149" },
     },
     correo: "hugomalcampodedios@yahoo.com.mx",
   },

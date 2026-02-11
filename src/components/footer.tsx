@@ -39,7 +39,7 @@ export default function Footer() {
                 <PhoneIcon className="w-4 h-4 text-green-400" />
                 <div className="text-slate-300">
                   <a href="tel:+526691262149" className="hover:text-white transition-colors" aria-label="Llamar al celular +52 1 669 126 2149">
-                    WhatsApp / Cel.: +52 1 669 126 2149
+                    WhatsApp / Cel.: 669 126 2149
                   </a>
                   <span className="mx-2">·</span>
                   <a

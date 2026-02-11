@@ -104,7 +104,7 @@ export default function ServicesSection() {
           <p className="mt-1">
             Modalidad Zoom: coordina por{" "}
             <a href="https://wa.me/526691262149" target="_blank" rel="noopener noreferrer" className="text-green-700 hover:underline">
-              WhatsApp +52 1 669 126 2149
+              WhatsApp 669 126 2149
             </a>{" "}
             o correo <a href="mailto:hugomalcampodedios@yahoo.com.mx" className="text-purple-700 hover:underline">hugomalcampodedios@yahoo.com.mx</a>.
           </p>
