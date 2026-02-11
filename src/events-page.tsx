@@ -28,9 +28,9 @@ const CAMPUS = {
     "Adolescentes y adultos (incluso mayores de 70) que puedan caminar y deseen profundizar en su proceso personal.",
   contacto_actualizado: {
     direccion: {
-      calle: "Dr. Carvajal",
+      calle: "Carvajal",
       numero: "1028",
-      cruce: "Casi esquina con Galeana",
+      cruce: "Esquina con Galeana",
       colonia: "Centro",
       ciudad: "Mazatlán",
       estado: "Sinaloa",

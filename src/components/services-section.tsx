@@ -90,8 +90,8 @@ export default function ServicesSection() {
           <p className="mt-1">Horario: <strong>Lunes a Viernes, 4:00–8:00 pm</strong></p>
 
           <p className="mt-1">
-            Domicilio: <strong>Dr. Carvajal 1028, Centro, Mazatlán, Sinaloa, México</strong> —
-            entre <strong>Av. Alemán</strong> y <strong>calle Galeana</strong>, casi esquina con Galeana.
+            Domicilio: <strong>Carvajal 1028, Centro, Mazatlán, Sinaloa, México</strong> —
+            entre <strong>Av. Alemán</strong> y <strong>calle Galeana</strong>, esquina con Galeana.
           </p>
 
           <p className="mt-1">
