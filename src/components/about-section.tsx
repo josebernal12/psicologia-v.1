@@ -11,18 +11,18 @@ export default function AboutSection() {
   return (
     <section id="about" className="py-20 px-4 bg-slate-50">
       <div className="container mx-auto">
-                <div className="text-center mb-16">
-            <h2 className="text-3xl lg:text-4xl font-bold text-slate-800 mb-4">Datos curriculares</h2>
-            <p className="text-xl text-slate-600 max-w-3xl mx-auto">
-               <span className="font-medium">Hugo Malcampo de Dios</span>:
-              psicoterapia <span className="font-medium">Existencial, Humanista y de Liberación</span>,
-              con más de <span className="font-medium">40 años</span> de experiencia clínica y educativa.
-            </p>
-          </div>
+        <div className="text-center mb-16">
+          <h2 className="text-3xl lg:text-4xl font-bold text-slate-800 mb-4">Datos curriculares</h2>
+          <p className="text-xl text-slate-600 max-w-3xl mx-auto">
+            <span className="font-medium">Hugo Malcampo de Dios</span>:
+            psicoterapia <span className="font-medium">Existencial, Humanista y de Liberación</span>,
+            con más de <span className="font-medium">40 años</span> de experiencia clínica y educativa.
+          </p>
+        </div>
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           {/* Columna de texto */}
           {/* Encabezado unificado */}
-  
+
 
           <div className="space-y-8">
             <div>
@@ -49,32 +49,29 @@ export default function AboutSection() {
 
                 <p>
                   Como conferencista ha llegado a compartir espacio con profesionales de países como
-                    como Estados Unidos,
+                  como Estados Unidos,
                   Alemania, Brasil, República Dominicana, Argentina, Polonia y Nigeria. Es creador del método
                   socioeducativo <strong>CAMPUS de Autoconocimiento</strong>.
                 </p>
                 <p>
-                  El autor, para profundizar sus estudios de psicología, ha viajado a distintos lugares con el propósito de conocer las 
-                  culturas ancestrales o originarias.
-                   Por ejemplo, estuvo en Chiapas visitando lugares como Tuxtla, Gutiérrez, San Cristóbal de las Casas, San Juan Chamula
-                    y las Rutas del Mamut.
-                 Visitó muchas cascadas y lagos donde en Chiapas se han tenido experiencias místicas. 
-                 Estuvo en Yaxchilán.
-                  Y el logro del encuentro con el pájaro jaguar y la visión de la serpiente. Tuvo experiencias en la selva donde estuvo 
-                  muy cerca del canto de los monos aulladores como experiencia de canto armónico la vivió. 
-                    Estuvo también en Bonampak y el arte que quedó plasmado en esos lugares.
-                    El encuentro con la cultura de los mayas lacandones, la zona arqueológica de Palenque y los estudios que se están 
-                    haciendo de la tumba de Pakal. También estuvo en Ocosingo, en Toniná en la exploración de cada nivel piramidal y 
-                    la experiencia de cómo limpiar el lente de percepción por niveles hacia la visión clara. Estuvo en una ecoaldea en 
-                    Chiapas, visitó el pueblo y el cerro de Copoya.
-                En fin, estuvo en Quintana Roo, estuvo en Tulum, Cobá. Estuvo también en Chichen Itzá y visitó toda en el sur sureste, 
-                en los estados de Quintana Roo, Yucatán, Campeche, visitando todas las zonas, todos los territorios que contienen una 
-                historia profunda.
-                De nuestra cultura milenaria en este país.
-                  Además, también ha visitado Alemania, Roma, Venecia, Suiza. Estuvo también en Perú. En Perú estuvo en la zona de Pachu
-                   Picchu, estuvo en la montaña de Colores, al mismo tiempo que pudo lograr subir a la montaña de Jiumantay.
-                estuvo en muchos lugares de la India, de la India milenaria, con el único propósito de conocer la psicología profunda que 
-                utilizaron aquellos que lograron asumir una activación en sus niveles de conciencia. 
+                  <p>
+                    El autor, para profundizar sus estudios de psicología, ha viajado a distintos lugares con el propósito de conocer las
+                    culturas ancestrales u originarias. Por ejemplo, estuvo en Chiapas visitando lugares como Tuxtla Gutiérrez, San Cristóbal de las Casas,
+                    San Juan Chamula y las Rutas del Mamut. Visitó muchas cascadas y lagos donde tuvo experiencias místicas. Estuvo en Yaxchilán,
+                    donde logró el encuentro con el pájaro jaguar y la visión de la serpiente. Tuvo experiencias en la selva donde estuvo
+                    muy cerca del canto de los monos aulladores y vivió la experiencia del canto armónico. Estuvo también en Bonampak
+                    y apreció el arte que quedó plasmado en esos lugares. Conoció la cultura de los mayas lacandones, la zona arqueológica
+                    de Palenque y los estudios que se están haciendo sobre la tumba de Pakal. También estuvo en Ocosingo y en Toniná,
+                    explorando cada nivel piramidal y experimentando cómo limpiar el lente de percepción por niveles hacia la visión clara.
+                    Estuvo en una ecoaldea en Chiapas, visitó el pueblo y el cerro de Copoya.
+                  </p>
+                  <p>
+                    Además, estuvo en Quintana Roo, en Tulum y Cobá. Visitó Chichén Itzá y recorrió el sur-sureste, en los estados de Quintana Roo,
+                    Yucatán y Campeche, visitando todas las zonas y territorios que contienen una historia profunda de nuestra cultura milenaria en este país.
+                    También ha visitado Alemania, Roma, Venecia y Suiza. Estuvo en Perú, específicamente en la zona de Machu Picchu, en la Montaña de Siete
+                    Colores y logró subir a la montaña Humantay. Estuvo en muchos lugares de la India milenaria, con el único propósito de conocer la
+                    psicología profunda que utilizaron aquellos que lograron alcanzar una activación en sus niveles de conciencia.
+                  </p>
                 </p>
               </div>
             </div>
