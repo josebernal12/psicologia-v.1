@@ -64,7 +64,7 @@ export default function Footer() {
               <div className="flex items-start space-x-3">
                 <MapPinIcon className="w-4 h-4 text-blue-400 mt-1" />
                 <span className="text-slate-300">
-                  Dr. Carvajal 1028, Centro, Mazatlán, Sinaloa, México — entre Av. Alemán y calle Galeana, casi esquina con Galeana
+                Carvajal 1028, Centro, Mazatlán, Sinaloa, México — entre Av. Alemán y calle Galeana, esquina con Galeana
                 </span>
               </div>
             </div>
